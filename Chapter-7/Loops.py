@@ -21,7 +21,7 @@ print("\nBreak Statement")
 
 for i in range(10):
     if i == 7:
-        break
+        break      # exit the loop right now
     print(i)
 
 
@@ -30,7 +30,7 @@ print("\nContinue Statement")
 
 for i in range(10):
     if i == 7:
-        continue
+        continue    #skip that iteration
     print(i)
 
 

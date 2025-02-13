@@ -1,7 +1,7 @@
 # Integar
 integar = 10
 print("Integar", integar)
-print(type(integar))
+print(type(integar))  # Check type
 
 # Float
 float = 2.1
