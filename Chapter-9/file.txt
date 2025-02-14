@@ -1,0 +1,11 @@
+
+File I/O in Python
+
+File Input/Output (FIO) is essential in Python for reading and writing data to files.
+
+ Importance
+- Data Persistence: Save data permanently, crucial for user data, logs, and configurations.
+
+- Data Exchange: Facilitates data sharing between programs using formats like CSV, JSON, XML.
+
+- Automation: Helps automate tasks like generating reports and processing logs.
